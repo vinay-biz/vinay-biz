@@ -1,4 +1,4 @@
-<h1 align="center">< 👋Hello , World!\></h1>
+<h1 align="center">👋Hello , World! </h1>
 <h3 align="center">I am Vinay, a 20 yo Indian 🇮🇳 developer, interested to work in Software Development, Mobile Apps and Web 3.0, and also loves contributing to FOSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-biz&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-biz" /> </p>
