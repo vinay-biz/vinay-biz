@@ -1,8 +1,7 @@
+<h1 align="center">< 👋Hello , World!\></h1>
 <h3 align="center">I am Vinay, a 20 yo Indian 🇮🇳 developer, interested to work in Software Development, Mobile Apps and Web 3.0, and also loves contributing to FOSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-biz&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-biz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay-biz" alt="vinay-biz" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 
